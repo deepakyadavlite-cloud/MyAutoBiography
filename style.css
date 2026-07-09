@@ -1,0 +1,11 @@
+.myimg{
+    height: 100px;
+   width: 70px;
+    border-radius: 50%;
+}
+.d-block{
+    border-radius: 20%;
+}
+.about{
+    background-color: #e4f9f5;
+}
